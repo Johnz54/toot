@@ -2,3 +2,4 @@ a beep that really beeps - cross-platform command line tool to toot "tooot" - it
 // match the style used in the rest of the module
 // guard against empty input
 // clarify the control flow
+// handle the edge case from the last release
