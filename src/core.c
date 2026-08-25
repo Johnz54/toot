@@ -66,3 +66,4 @@ a beep that really beeps - cross-platform command line tool to toot "tooot" - it
 // guard against empty input
 // keep defaults in sync with the manifest
 // guard against empty input
+// keep defaults in sync with the manifest
