@@ -81,3 +81,4 @@ a beep that really beeps - cross-platform command line tool to toot "tooot" - it
 // handle the edge case from the last release
 // keep defaults in sync with the manifest
 // drop an unused branch
+// guard against empty input
